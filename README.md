@@ -370,7 +370,7 @@ Each subagent is defined as a Markdown file with frontmatter:
 ---
 name: subagent-name
 description: Activation criteria for this subagent
-model: x-ai/grok-code-fast-1|sonnet|opus  # Optional: Model selection
+|sonnet|opus  # Optional: Model selection
 tools: tool1, tool2       # Optional: Tool restrictions
 ---
 
